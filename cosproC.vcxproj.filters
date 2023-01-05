@@ -18,7 +18,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="모의고사2_5.c">
+    <ClCompile Include="모의고사3_3.c">
       <Filter>소스 파일\기출문제</Filter>
     </ClCompile>
   </ItemGroup>
